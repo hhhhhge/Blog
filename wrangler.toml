@@ -2,4 +2,12 @@ name = "blog"
 compatibility_date = "2026-01-11"
 
 [assets]
-directory = "./dist"   # 构建产物目录
+directory = "./dist"
+
+[[routes]]
+pattern = "www.hhhge.win/*"
+zone_name = "hhhge.win"
+
+[[routes]]
+pattern = "hhhge.win/*"
+zone_name = "hhhge.win"
