@@ -1,9 +1,16 @@
-# About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+# 关于
+
+一只可怜高二生喵，喜欢编程，二次元喵~
+
+还有不是我猫娘喵~ 也不是南梁喵~ 其实是 Ciallo～(∠・ω< )⌒★
+
+## 技术栈
+
+这是一个由 [Fuwari](https://github.com/saicaca/fuwari) 编写的Blog
 
 ::github{repo="saicaca/fuwari"}
 
-> ### Sources of images used in this site
+> ## 图片来源
+>
 > - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+> - [♥ 0v< ~](https://www.pixiv.net/artworks/110458117) by [CyanAutumn](https://www.pixiv.net/users/20015785)
